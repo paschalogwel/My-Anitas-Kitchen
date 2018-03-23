@@ -3,10 +3,17 @@ h1{
 }
 h2{
   text-align: center;
+  color: white;
 }
 .jumbotron{
   background-image:url('../img/backgrounds/landing.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
+}
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
