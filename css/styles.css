@@ -10,6 +10,7 @@ h2{
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
+  width: 100%;
   padding: 0%;
   margin: 0%;
 }
@@ -35,18 +36,44 @@ h2{
   width: 100%;
 }
 #bf{
-  height: 272px;
+  height: 271px;
 }
 .menu{
   background-image: url('../img/backgrounds/foodsBg.jpg');
   background-size: cover;
-  height: 700px;
+  height: 600px;
 }
 #hh{
-    background-color: #F78505;
+    background-color: blue;
     height: 136px;
 }
 #pt{
-  background-color: red;
+  background-color: #FB8E03;
   height: 136px;
+}
+.contacts{
+  height: 300px;
+}
+.email{
+  background-image: url("../img/backgrounds/subscribe.jpg");
+  background-size: cover;
+  height: 300px;
+}
+.footer2{
+  background-color:  #F78505;
+  height: 400px;
+}
+.customers{
+  background-color: #F8FFFE;
+  height: 400px;
+}
+#hey img{
+  width: 50%;
+}
+
+#food img{
+  width: 100%;
+}
+.mimi{
+ text-align: right;
 }
