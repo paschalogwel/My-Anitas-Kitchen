@@ -4,3 +4,9 @@ h1{
 h2{
   text-align: center;
 }
+.jumbotron{
+  background-image:url('../img/backgrounds/landing.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+}
