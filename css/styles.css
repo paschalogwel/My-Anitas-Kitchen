@@ -10,11 +10,13 @@ h2{
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
+  padding: 0%;
+  margin: 0%;
 }
 .centered{
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 40%;
   transform: translate(-50%, -50%);
 }
 .party{
@@ -23,4 +25,28 @@ h2{
 .logo{
   padding-left: 40%;
   padding-top: 5%;
+}
+.col-md-3{
+  padding: 0%;
+  margin: 0%;
+
+}
+.bf{
+  width: 100%;
+}
+#bf{
+  height: 272px;
+}
+.menu{
+  background-image: url('../img/backgrounds/foodsBg.jpg');
+  background-size: cover;
+  height: 700px;
+}
+#hh{
+    background-color: #F78505;
+    height: 136px;
+}
+#pt{
+  background-color: red;
+  height: 136px;
 }
