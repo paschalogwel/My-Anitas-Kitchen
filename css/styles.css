@@ -30,6 +30,7 @@ h2{
 .col-md-3{
   padding: 0%;
   margin: 0%;
+  
 
 }
 .bf{
@@ -98,9 +99,10 @@ p{
   font-size: 75px;
   color: white;
 }
-.well.well-lg{
-  padding-top: 20%;
+.col-md-4{
+border-right: 1px solid gray;
 }
+
 .button{
     background-color: #F78505;
     border: none;
