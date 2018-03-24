@@ -61,7 +61,7 @@ h2{
 }
 .footer2{
   background-color:  #F78505;
-  height: 400px;
+  height: 300px;
 }
 .customers{
   background-color: #F8FFFE;
@@ -79,4 +79,15 @@ h2{
 }
 .well{
   background-color: white;
+}
+h5{
+  text-align: center;
+  padding-left: 5%;
+  padding-top: 1%;
+}
+.button1 {
+    background-color: white;
+    color: #F78505;
+    border: 2px solid #F78505;
+    width: 20%;
 }
