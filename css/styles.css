@@ -30,7 +30,7 @@ h2{
 .col-md-3{
   padding: 0%;
   margin: 0%;
-  
+
 
 }
 .bf{
@@ -115,4 +115,7 @@ border-right: 1px solid gray;
 }
 input{
   padding:15px 32px;
+}
+.grey{
+  color:#F78505;
 }
