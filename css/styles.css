@@ -125,3 +125,9 @@ input{
 .centered2{
   padding-left: 50%;
 }
+.glyphicon.glyphicon-chevron-left{
+  color: #F78505;
+}
+.glyphicon-chevron-right{
+  color: #F78505;
+}
